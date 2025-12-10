@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>2.0.0.0</version>
-    <url>http://placeholder-url.com</url>
+    <url>https://example.com/DentalClinicSetup.zip</url>
     <changelog>https://github.com/hadiserghani7-sys/DentalClinicUpdates/releases</changelog>
     <mandatory>false</mandatory>
 </item>
